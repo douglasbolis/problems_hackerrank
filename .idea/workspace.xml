@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb4c9bd5-c1ff-4b12-b866-95fcd93ec8a9" name="Default" comment="">
+    <list default="true" id="eb4c9bd5-c1ff-4b12-b866-95fcd93ec8a9" name="Default" comment="Finalizado o Lonely Integer, mas o hackerrank não quer aceitar (kkkk) :)...i">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithms/lonely_integer.js" afterPath="$PROJECT_DIR$/algorithms/lonely_integer.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -28,8 +28,8 @@
       <file leaf-file-name="lonely_integer.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/algorithms/lonely_integer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7279793">
-              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.22279793">
+              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -579,7 +579,7 @@
       <created>1428601637863</created>
       <option name="number" value="Default" />
       <updated>1428601637863</updated>
-      <workItem from="1428601639102" duration="3955000" />
+      <workItem from="1428601639102" duration="4324000" />
     </task>
     <task id="LOCAL-00001" summary="Iniciado o problema Lonely Integer">
       <created>1428604973824</created>
@@ -587,11 +587,17 @@
       <option name="project" value="LOCAL" />
       <updated>1428604973824</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Finalizado o Lonely Integer, mas o hackerrank não quer aceitar (kkkk) :)...i">
+      <created>1428605637997</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1428605637997</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3955000" />
+    <option name="totallyTimeSpent" value="4324000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="27" width="1368" height="742" extended-state="6" />
@@ -605,7 +611,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32792208" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32792208" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -628,7 +634,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Iniciado o problema Lonely Integer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Iniciado o problema Lonely Integer" />
+    <MESSAGE value="Finalizado o Lonely Integer, mas o hackerrank não quer aceitar (kkkk) :)...i" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finalizado o Lonely Integer, mas o hackerrank não quer aceitar (kkkk) :)...i" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -645,8 +652,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/algorithms/lonely_integer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7279793">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.22279793">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
           <folding />
         </state>
       </provider>
