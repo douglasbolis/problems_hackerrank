@@ -2,12 +2,12 @@ function processData(input) {
     var temPar = false,
         achou = false,
         i = 0,
-        mat = input.split('\n');
+        mat = input.split('\n'),
         lst = mat[1].split(' ');
 
 
 
-    while ((i < lst.length) && (!achou)) {
+    while ((i < mat[0]) && (!achou)) {
         temPar = false;
         achou = false;
 
