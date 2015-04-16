@@ -10,7 +10,7 @@ function processData(input) {
     }
 }
 
-var lst = "10\n6877550\n9740081\n2091018\n5938116\n1969577\n4023883\n3130903\n1327048\n339650\n310570";
+var lst = "4\n5\n6\n7\n8";
 
 processData(lst);
 //console.log(processData(lst));
