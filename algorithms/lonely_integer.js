@@ -26,6 +26,6 @@ function processData(input) {
     return lst[i-1]
 }
 
-var lst = "21\n1 1 2 4 5 3 4 2 5 6 3 6 8 9 8 9 10 22 12 10 22";
+var str = "21\n1 1 2 4 5 3 4 2 5 6 3 6 8 9 8 9 10 22 12 10 22";
 
-console.log(processData(lst));
+console.log(processData(str));

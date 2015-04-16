@@ -10,7 +10,7 @@ function processData(input) {
     }
 }
 
-var lst = "4\n5\n6\n7\n8";
+var str = "4\n5\n6\n7\n8";
 
-processData(lst);
+processData(str);
 //console.log(processData(lst));

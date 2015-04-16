@@ -5,7 +5,7 @@ function processData(input) {
     console.log(lstCase);
 }
 
-var lst = "3\n10 2 5\n12 4 4\n6 2 2";
+var str = "3\n10 2 5\n12 4 4\n6 2 2";
 
-processData(lst);
+processData(str);
 //console.log(processData(lst));

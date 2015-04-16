@@ -24,7 +24,7 @@ function processData(input) {
     }
 }
 
-var lst = "5\n4 3\n-1 -3 4 2\n4 2\n0 -1 2 1\n6 3\n5 0 -1 -3 4 2\n10 4\n0 1 2 1 0 1 2 1 5 5\n9 3\n-1 -3 4 2 -1 3 4 2 0";
+var str = "5\n4 3\n-1 -3 4 2\n4 2\n0 -1 2 1\n6 3\n5 0 -1 -3 4 2\n10 4\n0 1 2 1 0 1 2 1 5 5\n9 3\n-1 -3 4 2 -1 3 4 2 0";
 
-processData(lst);
+processData(str);
 //console.log(processData(lst));
